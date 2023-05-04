@@ -1,7 +1,22 @@
+# 💫 Hey, guys!
 <img src="https://media.tenor.com/M0S6_P7ZMMgAAAAd/bugs-video-games.gif" width="512px" height="512px"/>
 
 
-# 💫 Hey, guys!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 📒 I am a Data Science student in Ateneo de Davao University.<br>
 🔍 I specialized in Data Analysis, Full Stack Development, and UI/UX Design<br>
