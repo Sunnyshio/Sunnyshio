@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/M0S6_P7ZMMgAAAAd/bugs-video-games.gif" width="512px"/>
+<img src="https://media.tenor.com/M0S6_P7ZMMgAAAAd/bugs-video-games.gif" width="512px" height="512px"/>
 
 
 # 💫 Hey, guys!
