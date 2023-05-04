@@ -1,3 +1,5 @@
+<img src="[https://rm.up.railway.app/](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)" width="512px"/>
+
 # 💫 Hey, guys!
 
 📒 I am a Data Science student in Ateneo de Davao University.<br>
@@ -20,9 +22,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sunnyshio&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sunnyshio&icon=6&color=9)](https://visitcount.itsvg.in)
