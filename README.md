@@ -7,6 +7,7 @@
 🔍 I specialized in Data Analysis, Full Stack Development, and UI/UX Design<br>
 🎯 Check out my tech stack below!
 
+<img src="https://media.tenor.com/M0S6_P7ZMMgAAAAd/bugs-video-games.gif" width="512px"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/mary-rose-jofel-villacampa-79bb3b23a](https://www.linkedin.com/in/mary-rose-jofel-villacampa-79bb3b23a/) ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16768378) 
