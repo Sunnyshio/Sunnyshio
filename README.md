@@ -1,4 +1,5 @@
 <p align="center"><img src="devmeme.gif" width="500" height="400"/></p>
+
 # 💫 Hey, guys!
 
 📒 I am a Data Science student in Ateneo de Davao University.<br>
