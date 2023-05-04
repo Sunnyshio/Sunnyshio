@@ -1,11 +1,9 @@
-<p align="center"><img src="devmeme.gif" width="250" height="250"/></p>
+<p align="center"><img src="devmeme.gif" width="500" height="400"/></p>
 # 💫 Hey, guys!
 
 📒 I am a Data Science student in Ateneo de Davao University.<br>
 🔍 I specialized in Data Analysis, Full Stack Development, and UI/UX Design<br>
 🎯 Check out my tech stack below!
-
-![Alt Text](devmeme.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/mary-rose-jofel-villacampa-79bb3b23a](https://www.linkedin.com/in/mary-rose-jofel-villacampa-79bb3b23a/) ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16768378) 
