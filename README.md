@@ -1,4 +1,5 @@
-<img src="[https://rm.up.railway.app/](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)" width="512px"/>
+<img src="[valid_image_url_here](https://media.tenor.com/M0S6_P7ZMMgAAAAd/bugs-video-games.gif)" width="512px"/>
+
 
 # 💫 Hey, guys!
 
