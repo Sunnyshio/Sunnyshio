@@ -1,7 +1,7 @@
 # 💫 Hey, guys!
 
-📒 I am a Data Science student in Ateneo de Davao University.<br>
-🔍 I specialized in Data Analysis, Full Stack Development, and UI/UX Design<br>
+📒 I am a Data Science Graduate of Ateneo de Davao University.<br>
+🔍 I specialized in Data Science and Research<br>
 🎯 Check out my tech stack below!
 
 <img src="devmeme.gif" width="400" height="300"/>
