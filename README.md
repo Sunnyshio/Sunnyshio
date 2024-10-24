@@ -1,7 +1,7 @@
 # 💫 Hey, guys!
 
 📒 I am a Data Science Graduate of Ateneo de Davao University.<br>
-🔍 I specialized in Data Science and Research<br>
+🔍 I specialized in Data Science and Research. I am very fascinated by the way how nature works and why it works the way it does. <br>
 🎯 Check out my tech stack below!
 
 <img src="devmeme.gif" width="400" height="300"/>
