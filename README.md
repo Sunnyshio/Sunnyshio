@@ -1,10 +1,11 @@
 # 💫 Hey, guys!
+<img src="header.png" width="1000" height="300"/>
 
 📒 I am a Data Science Graduate of Ateneo de Davao University.<br>
 🔍 I specialized in Data Science and Research. I am very fascinated by the way how nature works and why it works the way it does. <br>
 🎯 Check out my tech stack below!
 
-<img src="https://drive.google.com/file/d/1DOtAwx92zK4b9xM_Aqwg4yQUnfurlaKc/view?usp=sharing" width="400" height="300"/>
+
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16768378) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-rose-jofel-villacampa-79bb3b23a/)
